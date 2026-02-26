@@ -1,0 +1,10 @@
+{
+  "name": "garden-shed-builder",
+  "version": "1.0.0",
+  "description": "Interactive garden shed configurator with 2D blueprint editor and real-time 3D preview",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y serve .",
+    "start": "npx -y serve ."
+  }
+}
